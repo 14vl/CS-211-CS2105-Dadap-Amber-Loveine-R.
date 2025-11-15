@@ -11,7 +11,7 @@ public class ArtistDemo {
 
         System.out.println();
 
-        Painter painter = new Painter("Leonardo da Vinci", "Italian", 67, "Painter", Medium.OIL);
+       Painter painter = new Painter("Juan Luna", "Filipino", 42, "Painter", Medium.OIL);
         painter.displayInfo();
 
         System.out.println();
